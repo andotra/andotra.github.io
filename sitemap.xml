@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://andotra.github.io/andotra.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://andotra.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://andotra.github.io/andotra.github.io/</loc>
+<loc>https://andotra.github.io/</loc>
 </url>
 <url>
-<loc>https://andotra.github.io/andotra.github.io/about.html</loc>
+<loc>https://andotra.github.io/about.html</loc>
 <lastmod>2026-05-11T12:32:55+05:00</lastmod>
 </url>
 <url>
-<loc>https://andotra.github.io/andotra.github.io/contact-us.html</loc>
+<loc>https://andotra.github.io/contact-us.html</loc>
 <lastmod>2026-05-04T14:28:11+05:00</lastmod>
 </url>
 <url>
-<loc>https://andotra.github.io/andotra.github.io/products.html</loc>
+<loc>https://andotra.github.io/products.html</loc>
 <lastmod>2026-05-11T12:38:47+05:00</lastmod>
 </url>
 <url>
-<loc>https://andotra.github.io/andotra.github.io/services.html</loc>
+<loc>https://andotra.github.io/services.html</loc>
 <lastmod>2026-05-11T12:24:30+05:00</lastmod>
 </url>
 </urlset>

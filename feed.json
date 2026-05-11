@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Andotra Systems",
     "description": "",
-    "home_page_url": "https://andotra.github.io/andotra.github.io",
-    "feed_url": "https://andotra.github.io/andotra.github.io/feed.json",
+    "home_page_url": "https://andotra.github.io",
+    "feed_url": "https://andotra.github.io/feed.json",
     "user_comment": "",
-    "icon": "https://andotra.github.io/andotra.github.io/media/website/simplified-modern-logo-for-andotra-systems-pvt-ltd.jpeg",
+    "icon": "https://andotra.github.io/media/website/simplified-modern-logo-for-andotra-systems-pvt-ltd.jpeg",
     "author": {
         "name": "Tariq"
     },
