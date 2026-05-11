@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://andotra.github.io/andotra.github.io/sitemap.xml
