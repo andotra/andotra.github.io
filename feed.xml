@@ -3,10 +3,33 @@
     <title>Andotra Systems</title>
     <link href="https://andotra.github.io/feed.xml" rel="self" />
     <link href="https://andotra.github.io" />
-    <updated>1970-01-01T05:00:00+05:00</updated>
+    <updated>2026-05-12T14:58:36+05:00</updated>
     <author>
         <name>Tariq</name>
     </author>
     <id>https://andotra.github.io</id>
 
+    <entry>
+        <title>Our Services</title>
+        <author>
+            <name>Tariq</name>
+        </author>
+        <link href="https://andotra.github.io/our-services.html"/>
+        <id>https://andotra.github.io/our-services.html</id>
+        <media:content url="https://andotra.github.io/media/posts/6/WhatsApp-Image-2026-04-27-at-4.33.27-PM.jpeg" medium="image" />
+
+        <updated>2026-05-11T16:08:04+05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://andotra.github.io/media/posts/6/WhatsApp-Image-2026-04-27-at-4.33.27-PM.jpeg" alt="" />
+                    at andotra academy i deliver educational content on Technology, Artificial Intelligence, Video editing, cyber security and many more. follow me to level up.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://andotra.github.io/media/posts/6/WhatsApp-Image-2026-04-27-at-4.33.27-PM.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>at andotra academy i deliver educational content on Technology, Artificial Intelligence, Video editing, cyber security and many more. follow me to level up.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

@@ -10,5 +10,20 @@
         "name": "Tariq"
     },
     "items": [
+        {
+            "id": "https://andotra.github.io/our-services.html",
+            "url": "https://andotra.github.io/our-services.html",
+            "title": "Our Services",
+            "summary": "at andotra academy i deliver educational content on Technology, Artificial Intelligence, Video editing, cyber security and many more. follow me to level up.",
+            "content_html": "<p>at andotra academy i deliver educational content on Technology, Artificial Intelligence, Video editing, cyber security and many more. follow me to level up.</p>",
+            "image": "https://andotra.github.io/media/posts/6/WhatsApp-Image-2026-04-27-at-4.33.27-PM.jpeg",
+            "author": {
+                "name": "Tariq"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-11T16:08:04+05:00",
+            "date_modified": "2026-05-12T14:58:36+05:00"
+        }
     ]
 }
